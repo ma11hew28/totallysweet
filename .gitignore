@@ -1,0 +1,13 @@
+# general
+.DS_Store
+.localized
+Thumbs.db
+
+# rails
+config/database.yml
+db/*.sqlite3
+doc/api
+doc/app
+log/*.log
+public/cache/*
+tmp/*

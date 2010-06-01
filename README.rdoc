@@ -1,0 +1,6 @@
+= What's Totally Sweet
+written in node.js
+
+== DESCRIPTION:
+
+What's Totally Sweet is a project that informs the world about what's totally sweet.
